@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "468236031580",
+    "project_id": "restsurant-management",
+    "storage_bucket": "restsurant-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468236031580:android:71025ce038db82a0adf899",
+        "android_client_info": {
+          "package_name": "com.example.cafe_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468236031580-jhd9kula1oupa7t6i44u1sj6hvjm2hig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpH2LtCHSDyr03oZoBkafEScllcfd_Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468236031580-6gcbp1jkgj6ngplnd1h868d10rv88m4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468236031580:android:2279d7619cf91b05adf899",
+        "android_client_info": {
+          "package_name": "com.example.order_app_for_resturent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468236031580-jhd9kula1oupa7t6i44u1sj6hvjm2hig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpH2LtCHSDyr03oZoBkafEScllcfd_Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468236031580-6gcbp1jkgj6ngplnd1h868d10rv88m4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
